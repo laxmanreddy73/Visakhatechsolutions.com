@@ -1,0 +1,72 @@
+{
+  "name": "Visakha Tech Solutions",
+  "short_name": "VTS",
+  "description": "Leading provider of electro-mechanical solutions and industrial automation in Visakhapatnam",
+  "start_url": "/?source=pwa",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FFFFFF",
+  "theme_color": "#00D1D1",
+  "categories": ["industrial", "engineering", "automation"],
+  "icons": [
+    {
+      "src": "https://i.postimg.cc/wTyYPFSf/Screenshot-2025-01-28-235821-removebg-preview.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://i.postimg.cc/wTyYPFSf/Screenshot-2025-01-28-235821-removebg-preview.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://i.postimg.cc/wTyYPFSf/Screenshot-2025-01-28-235821-removebg-preview.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "https://i.postimg.cc/XYZ123/screenshot1.jpg",
+      "sizes": "1080x1920",
+      "type": "image/jpeg",
+      "form_factor": "narrow"
+    }
+  ],
+  "related_applications": [
+    {
+      "platform": "play",
+      "url": "https://play.google.com/store/apps/details?id=com.visakhatechsolutions.app",
+      "id": "com.visakhatechsolutions.app"
+    },
+    {
+      "platform": "webapp",
+      "url": "https://visakhatechsolutions.com/manifest.json"
+    }
+  ],
+  "prefer_related_applications": true,
+  "shortcuts": [
+    {
+      "name": "Our Services",
+      "short_name": "Services",
+      "description": "View our industrial solutions",
+      "url": "/services"
+    },
+    {
+      "name": "Contact Us",
+      "short_name": "Contact",
+      "description": "Get in touch with our team",
+      "url": "/contact"
+    }
+  ],
+  "protocol_handlers": [
+    {
+      "protocol": "web+vts",
+      "url": "/?uri=%s"
+    }
+  ]
+}

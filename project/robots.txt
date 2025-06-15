@@ -1,0 +1,37 @@
+User-agent: *
+Allow: /
+Crawl-delay: 5
+
+# Sitemaps
+Sitemap: https://visakhatechsolutions.com/sitemap-index.xml
+Sitemap: https://visakhatechsolutions.com/sitemap-core.xml
+Sitemap: https://visakhatechsolutions.com/sitemap-blog.xml
+Sitemap: https://visakhatechsolutions.com/sitemap-media.xml
+Sitemap: https://visakhatechsolutions.com/sitemap.xml
+
+Allow: /*.js$
+Allow: /*.css$
+Allow: /*.jpg$
+Allow: /*.jpeg$
+Allow: /*.png$
+Allow: /*.gif$
+Allow: /*.svg$
+Allow: /*.webp$
+Allow: /*.woff2$
+
+Disallow: /admin/
+Disallow: /private/
+Disallow: /temp/
+Disallow: /includes/
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Twitterbot
+Allow: /
+
+User-agent: facebookexternalhit
+Allow: /

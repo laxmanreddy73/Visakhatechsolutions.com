@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="https://www.google.com/schemas/sitemap-news/0.9">
+  <url>
+    <loc>https://visakhatechsolutions.com/blog/future-of-ai-in-business</loc>
+
+    <news:news>
+      <news:publication>
+        <news:name>Visakhatech Insights</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-04-27</news:publication_date>
+      <news:title>The Future of AI in Business</news:title>
+    </news:news>
+
+    <lastmod>2025-04-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+</urlset>

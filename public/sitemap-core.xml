@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="https://www.google.com/schemas/sitemap-image/1.1" xmlns:video="https://www.google.com/schemas/sitemap-video/1.1">
+
+  <!-- Home -->
+  <url>
+    <loc>https://visakhatechsolutions.com/</loc>
+    <lastmod>2025-04-28</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <video:video>
+      <video:content_loc>https://media-hosting.imagekit.io/80f10f8d5ce841a7/jaaa.mp4</video:content_loc>
+      <video:thumbnail_loc>https://visakhatechsolutions.com/og-image.jpg</video:thumbnail_loc>
+      <video:title>Visakhatech Solutions Overview</video:title>
+      <video:description>Leading Electro-Mechanical and Automation Solutions for Naval and Industrial Sectors.</video:description>
+    </video:video>
+  </url>
+
+  <!-- About -->
+  <url>
+    <loc>https://visakhatechsolutions.com/about</loc>
+    <lastmod>2025-04-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://i.postimg.cc/x1CNYJqd/harbor-sunset-1359-1120-1.jpg</image:loc>
+      <image:title>About Visakhatech Solutions</image:title>
+    </image:image>
+  </url>
+
+  <!-- Services -->
+  <url>
+    <loc>https://visakhatechsolutions.com/services</loc>
+    <lastmod>2025-04-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://visakhatechsolutions.com/services-preview.jpg</image:loc>
+      <image:title>Our Services Portfolio</image:title>
+    </image:image>
+    <video:video>
+      <video:content_loc>https://media-hosting.imagekit.io/d51ea13ecfb04379/135849-764362069.mp4</video:content_loc>
+      <video:title>Visakhatech Premium Services</video:title>
+      <video:description>ISO Certified Electrical and Automation Solutions.</video:description>
+    </video:video>
+  </url>
+
+  <!-- Projects -->
+  <url>
+    <loc>https://visakhatechsolutions.com/projects</loc>
+    <lastmod>2025-04-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Case Studies -->
+  <url>
+    <loc>https://visakhatechsolutions.com/case-studies</loc>
+    <lastmod>2025-04-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Careers -->
+  <url>
+    <loc>https://visakhatechsolutions.com/careers</loc>
+    <lastmod>2025-04-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Certifications -->
+  <url>
+    <loc>https://visakhatechsolutions.com/certifications</loc>
+    <lastmod>2025-04-28</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Contact -->
+  <url>
+    <loc>https://visakhatechsolutions.com/contact</loc>
+    <lastmod>2025-04-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+</urlset>

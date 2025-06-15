@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="https://www.google.com/schemas/sitemap-image/1.1" xmlns:video="https://www.google.com/schemas/sitemap-video/1.1">
+
+  <url>
+    <loc>https://visakhatechsolutions.com/projects</loc>
+    <image:image>
+      <image:loc>https://i.ibb.co/TBQMC3hp/Whats-App-Image-2025-04-23-at-9-23-10-AM.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://i.ibb.co/gphxcpj/Whats-App-Image-2025-04-22-at-3-30-30-PM.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://i.ibb.co/BK3hxzq/Whats-App-Image-2025-04-23-at-9-34-28-AM.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://i.ibb.co/N6v4gdMK/Whats-App-Image-2025-04-23-at-9-34-28-AM-1.jpg</image:loc>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://visakhatechsolutions.com/</loc>
+    <video:video>
+      <video:content_loc>https://media-hosting.imagekit.io/80f10f8d5ce841a7/jaaa.mp4</video:content_loc>
+      <video:title>Home Page Video</video:title>
+      <video:description>Discover Visakhatech leadership in Electro-Mechanical Services.</video:description>
+    </video:video>
+  </url>
+
+  <url>
+    <loc>https://visakhatechsolutions.com/services</loc>
+    <video:video>
+      <video:content_loc>https://media-hosting.imagekit.io/d51ea13ecfb04379/135849-764362069.mp4</video:content_loc>
+      <video:title>Service Offerings Video</video:title>
+      <video:description>Explore specialized turnkey solutions across industries.</video:description>
+    </video:video>
+  </url>
+
+</urlset>

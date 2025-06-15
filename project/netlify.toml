@@ -1,0 +1,20 @@
+[build]
+  command = "npm run build"
+  publish = "dist"
+
+[dev]
+  framework = "vite"
+  targetPort = 5173
+  edge_functions = false  # Disable Edge Functions
+
+[functions]
+  node_bundler = "esbuild"
+
+  [functions.timeout]
+    default = 30  # Set default timeout to 30 seconds
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
+
